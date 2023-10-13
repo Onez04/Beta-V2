@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E9ECEF;
+}
+
+.ortalama {
+    text-align: center;
+}
+
+.dec {
+    text-decoration: none;
+    color: rgb(160, 152, 152);
+}
+
+h1 {
+    color: rgb(22, 26, 26);
+}
+
+/* Header Kısmı */
+.bacol {
+    background-color: rgb(36, 32, 36);
+    height: 70px;
+}
+
+.white {
+    color: white;
+}
+
+.htext {
+    font-size: 25px;
+}
+
+.hbox {
+    padding: 23px;
+}
+
+.nbox {
+    float: left;
+}
